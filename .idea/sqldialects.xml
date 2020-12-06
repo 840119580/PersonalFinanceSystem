@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/WebContent/add_income.jsp" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/WebContent/add_outcome.jsp" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/WebContent/calculate.jsp" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/WebContent/delete_incometxt.jsp" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/WebContent/login_test.jsp" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/WebContent/look.jsp" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/WebContent/register_test.jsp" dialect="TSQL" />
+  </component>
+</project>

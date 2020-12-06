@@ -1,0 +1,4 @@
+# Project exclude paths
+/build/classes/
+/classes/
+/lib/node_modules/
